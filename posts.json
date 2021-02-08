@@ -1,0 +1,12 @@
+[
+    {
+        "title": "First Tech Blog Post!",
+        "content": "First post from json file.",
+        "user_id": 1
+    },
+    {
+        "title": "Second Tech Blog Post!",
+        "content": "Second post from json file.",
+        "user_id": 1
+    }
+]
