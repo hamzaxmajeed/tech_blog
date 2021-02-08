@@ -3,7 +3,7 @@
 {% block content %}
     <div class="content-section">
         <form method="POST">
-            {% csrf_token %}
+            {% csrf_token %} <!-- Required Django security feature to only send POST data back from trusted domains -->
             <fieldset class="form-group">
                 <legend class="border-bottom mb-4">Delete Post</legend>
                 <h2>Are you sure you want to delete the post "{{ object.title }}"?</h2>
