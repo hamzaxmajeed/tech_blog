@@ -1,1 +1,1 @@
-# Technology Blog Site
+# Tech Blog Site

@@ -37,11 +37,11 @@ ul {
 }
 
 .article-title {
-  color: #991200;
+  color: #17a2b8;
 }
 
 a.article-title:hover {
-  color: #428bca;
+  opacity: 80%;
   text-decoration: none;
 }
 
@@ -58,7 +58,7 @@ a.article-title:hover {
 .article-metadata {
   padding-bottom: 1px;
   margin-bottom: 4px;
-  border-bottom: 1px solid #e3e3e3
+  border-bottom: 1px solid #e3e3e3;
 }
 
 .article-metadata a:hover {
