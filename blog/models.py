@@ -6,7 +6,7 @@ from django.urls import reverse
 
 class Post(models.Model):
     """
-    creates a Post table in sqlite3 database
+    creates a table in sqlite3 database
     automatically generates sql queries - can be seen by python manage.py sqlmigrate blog 0001
 
     :params models.Model: what the class inherits from
